@@ -1,0 +1,22 @@
+{
+  "emps": [
+    {
+      "noEmpleado": "1234",
+      "nombre": "alejandra",
+      "apellidos": "rosales",
+      "ubicación": "",
+      "sociedad": "122",
+      "ubicacion": "255",
+      "id": "LfNM4sE"
+    },
+    {
+      "noEmpleado": "89898",
+      "nombre": "Daniela",
+      "apellidos": "Lopez",
+      "ubicación": "",
+      "sociedad": "343",
+      "ubicacion": "49",
+      "id": "Ge_mux-"
+    }
+  ]
+}
